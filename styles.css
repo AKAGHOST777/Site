@@ -1,0 +1,32 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: #000000;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: auto;
+    max-height: 240px ;
+    margin: 8px;
+
+}
+
+
+img:hover {
+    transform: scale(1.1);
+}
+
+.header {
+    display: flex;
+    background-image: linear-gradient(45deg, #500000, #fc0303);
+
+}
+.content {
+    
+
+}
+
+.link {
+color: rgb(255, 255, 255);
+
+}
